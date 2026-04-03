@@ -1,0 +1,8 @@
+*.xlsx
+code/__pycache__/
+.ipynb_checkpoints/
+models/
+*.zip
+checkpoints/
+tmp/
+my_env/
